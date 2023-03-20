@@ -1,6 +1,6 @@
 ![](UTA-DataScience-Logo.png)
 
-# Project Title
+# Recommendation System of Goodreads Users Dataset
 
 * **One Sentence Summary** Ex: This repository holds an attempt to apply LSTMs to Stock Market using data from
 "Get Rich" Kaggle challenge (provide link). 
